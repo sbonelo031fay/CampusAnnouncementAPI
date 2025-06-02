@@ -1,0 +1,6 @@
+@CampusAnnouncementAPI_HostAddress = http://localhost:5148
+
+GET {{CampusAnnouncementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
