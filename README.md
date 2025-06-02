@@ -20,8 +20,3 @@ A simple ASP.NET Core Web API for managing campus announcements. Built with .NET
 - SQL Server LocalDB
 - Swagger (OpenAPI)
 
----
-
-## 📁 Project Structure
-
-
